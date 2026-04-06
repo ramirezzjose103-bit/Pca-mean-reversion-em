@@ -61,6 +61,4 @@ python pca_mean_reversion_em.py
 
 ---
 
-## Referencia
 
-Basado en: *PCA-Based Mean Reversion Strategy in FX Markets* — Arath Reyes (2025).
